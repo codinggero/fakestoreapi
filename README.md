@@ -9,40 +9,6 @@ Implement a login page in the app. If the user is not logged in, they should be 
 If a user is already logged in and opens the application again, they should be redirected to the product listing page.
 Utilize the following API, https://fakestoreapi.com/docs, to create this application.
 
-<p align="center">
-    ## Signup Screen
-    <img src="./screens/01.png" width="360" title="Signup Screen">
-    
-    ## Signup Screen
-    <img src="./screens/01.png" width="360" title="Signup Screen">
-    
-    ## Signup Screen
-    <img src="./screens/02.png" width="360" title="Signup Screen">
-    
-    ## Signup Screen
-    <img src="./screens/01.png" width="360" title="Signup Screen">
-    
-    ## Signup Screen
-    <img src="./screens/01.png" width="360" title="Signup Screen">
-    
-    ## Signup Screen
-    <img src="./screens/01.png" width="360" title="Signup Screen">
-    
-    ## Signup Screen
-    <img src="./screens/01.png" width="360" title="Signup Screen">
-    
-    ## Signup Screen
-    <img src="./screens/01.png" width="360" title="Signup Screen">
-    
-    ## Signup Screen
-    <img src="./screens/01.png" width="360" title="Signup Screen">
-    
-    ## Signup Screen
-    <img src="./screens/01.png" width="360" title="Signup Screen">
-    
-    ## Signup Screen
-    <img src="./screens/01.png" width="360" title="Signup Screen">
-    
-    ## Signup Screen
-    <img src="./screens/01.png" width="360" title="Signup Screen">
-</p>
+<img src="./screens/01.png" width="360" title="Signup Screen">
+<img src="./screens/01.png" width="360" title="Signup Screen">
+<img src="./screens/02.png" width="360" title="Signup Screen">
