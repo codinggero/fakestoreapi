@@ -11,7 +11,7 @@ Utilize the following API, https://fakestoreapi.com/docs, to create this applica
 
 # App
 
-<img src="./screens/poster.png" width="360" title="Signin Screen">
+<img src="./screens/poster.png">
 
 # Signin Screen
 
