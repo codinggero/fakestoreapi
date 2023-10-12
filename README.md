@@ -1,23 +1,48 @@
-# store
+Please complete the assignment below and share as soon as you can.
 
-A new Flutter project.
+Requirements:
 
-## Getting Started
+Create a mobile application that lists products with Product Name, Price, Description, Category, and Image.
+By default, it should display the first 10 products. When the user scrolls down, it should load more products.
+When the user clicks on any product, it should redirect the user to the details page where all this data is displayed.
+Implement a login page in the app. If the user is not logged in, they should be directed to the login page; otherwise, the user should be redirected to the product listing page.
+If a user is already logged in and opens the application again, they should be redirected to the product listing page.
+Utilize the following API, https://fakestoreapi.com/docs, to create this application.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/codinggero/fakestoreapi.git
-git push -u origin main
+<p align="center">
+    ## Signup Screen
+    <img src="./screens/01.png" width="360" title="Signup Screen">
+    
+    ## Signup Screen
+    <img src="./screens/01.png" width="360" title="Signup Screen">
+    
+    ## Signup Screen
+    <img src="./screens/02.png" width="360" title="Signup Screen">
+    
+    ## Signup Screen
+    <img src="./screens/01.png" width="360" title="Signup Screen">
+    
+    ## Signup Screen
+    <img src="./screens/01.png" width="360" title="Signup Screen">
+    
+    ## Signup Screen
+    <img src="./screens/01.png" width="360" title="Signup Screen">
+    
+    ## Signup Screen
+    <img src="./screens/01.png" width="360" title="Signup Screen">
+    
+    ## Signup Screen
+    <img src="./screens/01.png" width="360" title="Signup Screen">
+    
+    ## Signup Screen
+    <img src="./screens/01.png" width="360" title="Signup Screen">
+    
+    ## Signup Screen
+    <img src="./screens/01.png" width="360" title="Signup Screen">
+    
+    ## Signup Screen
+    <img src="./screens/01.png" width="360" title="Signup Screen">
+    
+    ## Signup Screen
+    <img src="./screens/01.png" width="360" title="Signup Screen">
+</p>
