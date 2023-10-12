@@ -19,10 +19,24 @@ Utilize the following API, https://fakestoreapi.com/docs, to create this applica
 
 # Home Screen
 
-<img src="./screens/03.png" width="360" title="Signup Screen">
-<img src="./screens/04.png" width="360" title="Signup Screen">
+<img src="./screens/03.png" width="360" title="Signup Screen"><img src="./screens/04.png" width="360" title="Signup Screen">
+
+# Product Screen
+
 <img src="./screens/05.png" width="360" title="Signup Screen">
-<img src="./screens/06.png" width="360" title="Signup Screen">
+
+# Cart Screen
+
 <img src="./screens/07.png" width="360" title="Signup Screen">
+
+# Orders Screen
+
 <img src="./screens/08.png" width="360" title="Signup Screen">
+
+# Wallat Screen
+
 <img src="./screens/09.png" width="360" title="Signup Screen">
+
+# Profile Screen
+
+<img src="./screens/10.png" width="360" title="Signup Screen">
