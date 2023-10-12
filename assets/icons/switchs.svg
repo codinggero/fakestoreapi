@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="24" viewBox="0 0 40 24">
+  <g id="switchs" transform="translate(0 -6.559)">
+    <path id="Path_62" data-name="Path 62" d="M24,18.559a12,12,0,1,0-12,12A12,12,0,0,0,24,18.559ZM12,29.226A10.667,10.667,0,1,1,22.667,18.559,10.679,10.679,0,0,1,12,29.226Z" transform="translate(0 0)"/>
+    <path id="Path_63" data-name="Path 63" d="M24.21,6.559H13.983a13.294,13.294,0,0,1,2.193,1.333H24.21a10.667,10.667,0,1,1,0,21.333H16.176a13.347,13.347,0,0,1-2.193,1.333H24.21a12,12,0,0,0,0-24Z" transform="translate(3.79 0)"/>
+  </g>
+</svg>
